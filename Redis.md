@@ -16,7 +16,9 @@
 
 ---
 
-### 参考[^1]
+### 参考
 
-[^1]:[相关笔记](./相关课件.mmap)
+[相关笔记](./相关课件.mmap)
+
+[相关视频](https://www.bilibili.com/video/BV1oW411u75R?from=search&seid=10243343109140985734)
 
